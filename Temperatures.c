@@ -26,7 +26,7 @@ int main()
         printf("Day %d temperature:%d\n",i+1,t4[i]);
     }
     
-    
+    return 0;
     
     
 }
