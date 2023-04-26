@@ -20,8 +20,7 @@ int main()
             w++;
             goto jump;
             
-
-        }
+         }
 
         
         if(a==90||b==90||c==90)
